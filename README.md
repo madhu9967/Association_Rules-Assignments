@@ -1,5 +1,12 @@
 # Association_Rules-Assignments
 Prepare rules for all the data set
 
+Association rules using Apriori Algorithm.
 
-Association rules using Apriori algorithm.
+Try different value of Support and Confidence. 
+
+Observe the change in number of Rules for different Support & Confidence.
+
+Change the minimum length of the Apriori Algorithm.
+
+Visualise the rules using different plots.
